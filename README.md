@@ -23,3 +23,7 @@ Differences in activity volumes alone do not establish which agency performs bet
 
 ## Project Status
 Completed training project.
+
+## Project Report
+
+[View the RespiraDom Comparative Analysis (PDF)](RespiraDom_Comparative_Analysis_EN.pdf)
